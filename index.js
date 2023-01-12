@@ -9,3 +9,8 @@ function megaCool() {
 }
 
 megaCool();
+
+
+function sayHello(name) {
+  console.log(`Hello ${name}`);
+}
